@@ -1,0 +1,30 @@
+{
+  "name": "nodes-js-lessons",
+  "version": "1.0.0",
+  "description": "complete guide of node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mufenman/node.git"
+  },
+  "keywords": [
+    "node",
+    "lessons"
+  ],
+  "author": "Dmytro Chupryna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mufenman/node/issues"
+  },
+  "homepage": "https://github.com/mufenman/node#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
